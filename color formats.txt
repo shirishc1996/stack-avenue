@@ -1,0 +1,7 @@
+Site Colors:
+Blue: #03afef
+Pink: #ec227d
+Green: #39b94d
+Grey: #6c6e72
+background: linear-gradient(45deg, #ed217c 0%, #ef3e36 100%);
+background-image: linear-gradient(to right top, #39b94d, #00bd8b, #00bdbf, #00b8e2, #03afef);
